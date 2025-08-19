@@ -4,8 +4,8 @@
 class Quill < Formula
   desc "Static SPA blog generator from Markdown"
   homepage "https://github.com/bim-dev-tools/quill"
-  url "https://github.com/bim-dev-tools/quill/archive/refs/tags/v0.0.2.tar.gz"
-  sha256 "1c0d24cfea25e73eacac6a8a9587936bafabcf06ffa2af65d983381266884f4e"
+  url "https://github.com/bim-dev-tools/quill/archive/refs/tags/v0.0.3.tar.gz"
+  sha256 "cc23e7eaf7095dfac6c4c1c17a9cc2d78764652742b16f761c4770cf6d2340ab"
   license "MIT"
 
   depends_on "go" => :build
